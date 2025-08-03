@@ -1,0 +1,7 @@
+conda create --yes -n intrinsic_diff python=3.8
+conda activate intrinsic_diff
+pip install -r requirements.txt --extra-index-url  https://download.pytorch.org/whl/cu118
+pip install kornia==0.7.0
+pip install kornia[x]==0.7.0
+accelerate config default
+

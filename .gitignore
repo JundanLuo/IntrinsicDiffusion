@@ -1,0 +1,7 @@
+.idea/
+data/
+experiments/
+notebooks/
+trained_models/
+release_code/
+*.pyc
