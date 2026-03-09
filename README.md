@@ -64,9 +64,8 @@ The directory structure should look like:
 
 Evaluation
 - 
-(coming soon)
-
-[//]: # ([Navigate to the Evaluation Doc]&#40;docs/test/README.md&#41;)
+- Precomputed results on the ARAP and IIW benchmarks: [Google Drive](https://drive.google.com/drive/folders/1JEQwn5M0eDa44xvb6NEFlNlbd9JTWaDH?usp=drive_link)
+- Evaluation code: [intrinsic-image-eval](https://github.com/JundanLuo/intrinsic-image-eval)
 
 
 Infer
